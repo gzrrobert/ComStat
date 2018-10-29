@@ -1,0 +1,24 @@
+Package: ComStat
+Title: Design & Analysis of Synergy Experiment
+Version: 0.0.1.0000
+Author: Zhangrong Gu,  Ruijie Yin,  Hongbin Fang,  Ming Tan
+Maintainer: Zhangrong Gu <gzrrobert@gmail.com>
+Description: Substituting the Hill model of each drug with linear/log-linear model, 
+    designing a dose-mixture scheme for combination study,
+    implementing an F-test to find out the additive/synergistic/antagonistic effect under each combination, 
+    fitting a combination index surface and drawing a contour plot. 
+	Citationsare are Tan (2003) <10.1002/sim.1467>,
+           Fang (2008) <10.1002/sim.3204>,
+		   Fang (2009) <10.1080/10543400902964019>,
+		   Tan (2015) <10.1177/0962280215574320>.
+Contact: Zhangrong Gu <gzrrobert@gmail.com> Ming Tan
+        <mtt34@georgetown.edu> Hongbin Fang <hf183@georgetown.edu>
+Depends: R (>= 3.3.1)
+Imports: BB, ktsolve, nleqslv, drc, fields, Matrix, splines,
+        scatterplot3d
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+NeedsCompilation: no
+Packaged: 2018-06-22 14:18:36 UTC; Robert Gu
