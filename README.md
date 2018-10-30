@@ -12,7 +12,7 @@ This R package program may be freely copied and noncommercially distributed as l
 GETTING STARTED: 
 
 Installation of the Software: 
-1.	You are looking at the “Readme” file included with the ComStat software. That means you probably have already opened the ComStat.zip file from the github. If not please go to: http://www.umgcc.org/research/biostat_software.htm and click on “download COMSTAT.” 
+1.	You are looking at the “Readme” file included with the ComStat software. That means you probably have already opened the ComStat.zip file from the github.
 2.	Unzip the files in the ComStat package and save them to a directory on your computer (eg., “My Documents” if using Windows). You will have 8 files to unzip and save to the directory: 
             One adobe file (Readme.pdf – this document), and one text file 
             Three R program files (SYN.design.R, SYN.test.R, SYN.analysis.R) 
